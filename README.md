@@ -1,1 +1,2 @@
 # Silicon-Labs-Bluetooth
+Silicon Labs is one of the leading manufacturers of semiconductor devices in the world. Recently, they are focusing more and more on IoT based products. They have excellent Bluetooth Low Energy kits which can be used to provide great IoT solutions. This repository is a collection of simple bluetooth tasks using mostly BGM220 kits. I will try to update this repository as I explore more and more. Any kind of feedback which will help me to grow is appreciated.
